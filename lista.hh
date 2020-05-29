@@ -1,5 +1,5 @@
-#ifndef LISTA_2_KIER_HH
-#define LISTA_2_KIER_HH
+#ifndef LISTA_HH
+#define LISTA_HH
 
 #include <iostream>
 #include <climits>
