@@ -1,5 +1,5 @@
-#ifndef STRUKTURY_HH
-#define STRUKTURY_HH
+#ifndef POMOCNICZE_HH
+#define POMOCNICZE_HH
 
 #include <iostream>
 #include <climits>
