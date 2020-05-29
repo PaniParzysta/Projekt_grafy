@@ -1,5 +1,5 @@
-#ifndef KOPIEC_CPP
-#define KOPIEC_CPP
+#ifndef POMOCNICZE_CPP
+#define POMOCNICZE_CPP
 
 #include <iostream>
 #include <fstream>
